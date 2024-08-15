@@ -11,6 +11,6 @@ mkdir <dir name>
 cd <dir name>
 
 git clone https://github.com/rlawncks125/algorithm-show.git .
-npm npm install
+npm install
 npm run dev
 ```
